@@ -32,3 +32,16 @@
 -	Completed conversion and retention rate analysis, determining the most effective channel which obtained highest conversion rate (34%).
 -	Applied A/B testing on the email channel, the statistical significance showed the customized emails improved marketing efficiency by 39%.
 
+
+
+
+
+
+
+
+
+
+
+---
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
