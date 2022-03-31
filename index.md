@@ -6,7 +6,8 @@
 -	Built a dynamic KPI dashboard which displays monthly or yearly traffic (total sessions, average pageviews, average duration on page) per source and per location, acquisition amounts per channel, and bounce rate per page.
 <img src=“images/Google Analytics 1.png?raw=true”/>
 <img src=“images/Google Analytic KPI.png?raw=true”/>
----
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [Online Retailer Marketing Analysis (Machine Learning, Feature Engineering, Python)](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
 -	Performed analysis using rollup and drill down, slice and dice, sort and rank on 1 year of historical sales data for a global online retailer to compare monthly performance (e.g., growth rate, numbers of active customers, new customer ratio and retention rate, etc.)
 -	Performed SWOT analysis on consumer marketing initiatives.
@@ -16,6 +17,7 @@
 <img src=“images/Retention Rate.png?raw=true”/>
 <img src=“images/Probability of customer being active.png?raw=true”/>
 ---
+
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
 -	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
 -	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
