@@ -1,11 +1,10 @@
 ## Portfolio
 ---
 ### Project Samples
-[Digital Marketing Analysis - Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://public.tableau.com/app/profile/angelo.chen/viz/GoogleAnalyticsDashboard_16443587309150/Dashboard)
+[Digital Marketing Analysis - Google Merchandise Store Dashboard (Google Analytics, BigQuery, Tableau)](https://public.tableau.com/app/profile/angelo.chen/viz/GoogleAnalyticsDashboard_16443587309150/Dashboard)
 -	Transformed large data from session and hit levels using Google BigQuery into a unnested, relational table (1.4-million records).
 -	Built a dynamic KPI dashboard which displays monthly or yearly traffic (total sessions, average pageviews, average duration on page) per source and per location, acquisition amounts per channel, and bounce rate per page.
-<img src=“images/Google Analytics 1.png?raw=true”/>
-<img src=“images/Google Analytic KPI.png?raw=true”/>
+<img src=“images/Screen Shot 2022-05-09 at 12.16.39 PM.png?raw=true”/>
 ---
 
 [Online Retailer Marketing Analysis (Machine Learning, Feature Engineering, Python)](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
