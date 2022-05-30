@@ -9,7 +9,7 @@ Identified traffic patterns and visitor digital footprint to measure  effectiven
 - Built dynamic dashboard which displays monthly/yearly traffic (total sessions, average pageviews, average duration) per source and per location, acquisition amounts per channel, and bounce rate per page
 - Identified channel optimization opportunity and recommended optimal marketing budget allocation to drive further growth
 <br><br>
-<img src=“images/Screen Shot 2022-05-09 at 12.16.39 PM.png”/>
+<img src=“images/Screen Shot 2022-05-09 at 12.16.39 PM.png?raw=true”/>
 ---
 
 [Online Retailer Marketing Analysis (Machine Learning, Feature Engineering, Python)](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
