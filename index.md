@@ -8,8 +8,7 @@ Identified traffic patterns and visitor digital footprint to measure  effectiven
 - Re-created Google Analytics dimensions and metrics (total sessions, average duration on pages, bounce rate, etc.)
 - Built dynamic dashboard which displays monthly/yearly traffic (total sessions, average pageviews, average duration) per source and per location, acquisition amounts per channel, and bounce rate per page
 - Identified channel optimization opportunity and recommended optimal marketing budget allocation to drive further growth
-<img src="images/Screen Shot 2022-05-09 at 12.16.39 PM.png?raw=true"/>
----
+<img src="images/Screen Shot 2022-05-09 at 12.16.39 PM.png?raw=true"/>---
 
 [Online Retailer Marketing Analysis (Machine Learning, Feature Engineering, Python)](https://github.com/shuchangliang/Projects/blob/master/LTV%20%26%20Predicting%20Next%20Purchase%20Day.ipynb)
 -	Performed analysis using rollup and drill down, slice and dice, sort and rank on 1 year of historical sales data for a global online retailer to compare monthly performance (e.g., growth rate, numbers of active customers, new customer ratio and retention rate, etc.)
