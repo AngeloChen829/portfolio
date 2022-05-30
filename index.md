@@ -23,12 +23,13 @@ Developed a RFM customer segmentation model for a UK based retailer leveraging 2
 <img src="images/History.png?raw=true"/>
 ---
 
-[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/shuchangliang/Projects/blob/master/Home%20Credit%20Default%20Risk.ipynb)
--	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
--	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
--	Transformed categorical variables into dummy variables using one-hot encoding.
--	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
-<img src=“images/Random Forest AOC.png?raw=true”/>
+[Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/angelochenyx/BI-Projects/blob/main/Home%20Credit%20Default%20Risk.ipynb)
+Build machine learning models to predict loan default probability and manage credit risk for a global non-bank consumer lender leveraging data from 3 sources, 4 tables, millions of records:
+- ETL: Created key measures correlated to credit risk using MySQL, load data by connecting database to Python, prepare data by removing empty records and imputing missing values, identify features correlated to default, and leverage one-hot encoding for applied categorical variables
+- Logistic Regression Model: Performed train/test split and apply the model on training data to predict default probability, implement ROC curve to evaluate the performance, AUG (Area Under the ROC Curve) is 0.616 (>0.5) that means the model performs better than random prediction
+- Random Forest Model: Taking the same steps as above, AUG is 0.701 that shows Random Forest Model is 14% more efficient than Logistic Regression Model
+<img src="images/LRM.png?raw=true"/>
+<img src="images/Random Forest.png?raw=true"/>
 ---
 
 [Post Marketing Campaign Analysis (A/B Testing, BI, SQL, Python)](https://github.com/shuchangliang/Projects/blob/master/Post%20Campaign%20Analysis%20rev.1.ipynb)
