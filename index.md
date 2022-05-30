@@ -8,7 +8,6 @@ Identified traffic patterns and visitor digital footprint to measure  effectiven
 - Re-created Google Analytics dimensions and metrics (total sessions, average duration on pages, bounce rate, etc.)
 - Built dynamic dashboard which displays monthly/yearly traffic (total sessions, average pageviews, average duration) per source and per location, acquisition amounts per channel, and bounce rate per page
 - Identified channel optimization opportunity and recommended optimal marketing budget allocation to drive further growth
-<br><br>
 <img src="images/Screen Shot 2022-05-09 at 12.16.39 PM.png?raw=true"/>
 ---
 
