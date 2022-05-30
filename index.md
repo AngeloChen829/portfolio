@@ -19,7 +19,7 @@ Developed a RFM customer segmentation model for a UK based retailer leveraging 2
 - RFM Model: Segmented customers into 3 clusters (high, medium and low value) based on their recency, frequency and monetary values
 - CLV Model: Analyzed Frequency/Recency to predict future purchase and alive probability using the BG/NBD model, and estimate customer lifetime value using the Gamma-Gamma model and Discounted Cash Flow (DCF) method
 <img src="images/cohort & retention.png?raw=true"/>
-<img src="images/RF Matrix.png.png?raw=true"/>
+<img src="images/RF Matrix.png?raw=true"/>
 <img src="images/History.png?raw=true"/>
 ---
 
