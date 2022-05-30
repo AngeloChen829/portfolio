@@ -32,12 +32,12 @@ Build machine learning models to predict loan default probability and manage cre
 <img src="images/Random Forest.png?raw=true"/>
 ---
 
-[Post Marketing Campaign Analysis (A/B Testing, BI, SQL, Python)](https://github.com/shuchangliang/Projects/blob/master/Post%20Campaign%20Analysis%20rev.1.ipynb)
--	Acquired data from marketing campaigns of a Portugal bank, and implemented data pipeline with SQL connector in Python.
--	Visualized 10,000 campaign records in Plotly, an interactive plot enables segmentation of different campaigns and other characteristics (e.g. users per age group, valid offers per day).
--	Completed conversion and retention rate analysis, determining the most effective channel which obtained highest conversion rate (34%).
--	Applied A/B testing on the email channel, the statistical significance showed the customized emails improved marketing efficiency by 39%.
-
+[Post Marketing Campaign Analysis (A/B Testing, Python)](https://github.com/angelochenyx/BI-Projects/blob/main/Post%20Campaign%20Analysis.ipynb)
+Calculated marketing metrics to analyze campaign performance of a Portugal bank, and implemented A/B testing to evaluate marketing impacts:
+- ETL: Loaded marketing campaign data (10,000 records) for 4 weeks (1 month) in Python
+- BI: Identified the most effective channel (email) with the highest conversion rate (33.8%), and the overall retention rate (66.8%) by visualizing the key metrics
+- A/B Testing: Conducted statistical test to confirm a 38.9% lift in conversion rate from email channel driven by this campaign with high confidence (reaching stats sig)
+<img src="images/conversion rate.png?raw=true"/>
 
 
 
@@ -49,5 +49,4 @@ Build machine learning models to predict loan default probability and manage cre
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
