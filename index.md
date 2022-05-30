@@ -9,6 +9,7 @@ Identified traffic patterns and visitor digital footprint to measure  effectiven
 - Visualization: Built dynamic dashboard which displays monthly/yearly traffic (total sessions, average pageviews, average duration) per source and per location, acquisition amounts per channel, and bounce rate per page
 - Marketing optimization: Identified channel optimization opportunity and recommended optimal marketing budget allocation to drive further growth
 <img src="images/Screen Shot 2022-05-09 at 12.16.39 PM.png?raw=true"/>
+
 ---
 
 [Retailer Marketing RFM & CLV Analysis (Machine Learning, Python)](https://github.com/angelochenyx/BI-Projects/blob/main/Retail%20Marketing%20RFM%20%26%20CLV%20Analysis.ipynb)
@@ -21,18 +22,22 @@ Developed a RFM customer segmentation model for a UK based retailer leveraging 2
 <img src="images/cohort & retention.png?raw=true"/>
 <img src="images/RF Matrix.png?raw=true"/>
 <img src="images/History.png?raw=true"/>
+
 ---
 
 [Home Credit Default Risk Prediction (SQL, Machine Learning, Python)](https://github.com/angelochenyx/BI-Projects/blob/main/Home%20Credit%20Default%20Risk.ipynb)
+<br><br>
 Build machine learning models to predict loan default probability and manage credit risk for a global non-bank consumer lender leveraging data from 3 sources, 4 tables, millions of records:
 - ETL: Created key measures correlated to credit risk using MySQL, load data by connecting database to Python, prepare data by removing empty records and imputing missing values, identify features correlated to default, and leverage one-hot encoding for applied categorical variables
 - Logistic Regression Model: Performed train/test split and apply the model on training data to predict default probability, implement ROC curve to evaluate the performance, AUG (Area Under the ROC Curve) is 0.616 (>0.5) that means the model performs better than random prediction
 - Random Forest Model: Taking the same steps as above, AUG is 0.701 that shows Random Forest Model is 14% more efficient than Logistic Regression Model
 <img src="images/LRM.png?raw=true"/>
 <img src="images/Random Forest.png?raw=true"/>
+
 ---
 
 [Post Marketing Campaign Analysis (A/B Testing, Python)](https://github.com/angelochenyx/BI-Projects/blob/main/Post%20Campaign%20Analysis.ipynb)
+<br><br>
 Calculated marketing metrics to analyze campaign performance of a Portugal bank, and implemented A/B testing to evaluate marketing impacts:
 - ETL: Loaded marketing campaign data (10,000 records) for 4 weeks (1 month) in Python
 - BI: Identified the most effective channel (email) with the highest conversion rate (33.8%), and the overall retention rate (66.8%) by visualizing the key metrics
