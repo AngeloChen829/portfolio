@@ -13,7 +13,6 @@ Identified traffic patterns and visitor digital footprint to measure  effectiven
 ---
 
 [Retail Business Analysis (PowerBI)](https://github.com/angelochenyx/BI-Projects/blob/main/Retail%20Business%20Analysis.pbix)
-
 <br><br>
 Build sales report for a multinational corporation which manufactures and sells bicycles leveraging more than 3 years of sales data to improve decision making through monitoring the core KPIs, driving product-level insights, identifying high value resellers and customers, and comparing regional performance:
 - ETL: Backed up and restored a database to SQL Server, loaded data by connecting Power BI to SQL Server, created tabular model in Power BI
