@@ -29,7 +29,7 @@ Developed a RFM customer segmentation model for a UK based retailer leveraging 2
 <br><br>
 Build machine learning models to predict loan default probability and manage credit risk for a global non-bank consumer lender leveraging data from 3 sources, 4 tables, millions of records:
 - ETL: Created key measures correlated to credit risk using MySQL, load data by connecting database to Python, prepare data by removing empty records and imputing missing values, identify features correlated to default, and leverage one-hot encoding for applied categorical variables
-- Logistic Regression Model: Performed train/test split and apply the model on training data to predict default probability, implement ROC curve to evaluate the performance, AUG (Area Under the ROC Curve) is 0.616 (>0.5) that means the model performs better than random prediction
+- Logistic Regression Model: Performed train/test split and applied the model on training data to predict default probability, implemented ROC curve to evaluate the performance, AUG (Area Under the ROC Curve) is 0.616 (>0.5) that means the model performs better than random prediction
 - Random Forest Model: Taking the same steps as above, AUG is 0.701 that shows Random Forest Model is 14% more efficient than Logistic Regression Model
 <img src="images/LRM.png?raw=true"/>
 <img src="images/Random Forest.png?raw=true"/>
